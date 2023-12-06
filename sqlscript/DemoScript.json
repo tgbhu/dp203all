@@ -2,7 +2,7 @@
 	"name": "DemoScript",
 	"properties": {
 		"content": {
-			"query": "SELECT * FROM DemoTable",
+			"query": "SELECT Id,Name FROM DemoTable",
 			"metadata": {
 				"language": "sql"
 			},
