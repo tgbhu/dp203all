@@ -1,5 +1,5 @@
 {
-	"name": "DemoScript",
+	"name": "DemoScripFromLaptop",
 	"properties": {
 		"content": {
 			"query": "SELECT * FROM AnyTable",
