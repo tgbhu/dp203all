@@ -2,7 +2,7 @@
 	"name": "DemoScriptFromLaptop",
 	"properties": {
 		"content": {
-			"query": "#Comment\n\nSELECT * FROM AnyTable",
+			"query": "#Comment\n\nSELECT Name,Address FROM AnyTable",
 			"metadata": {
 				"language": "sql"
 			},
